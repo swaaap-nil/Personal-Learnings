@@ -1,0 +1,11 @@
+streamlit
+transformers
+llama-index
+langchain 
+einops 
+accelerate  
+bitsandbytes 
+scipy
+sentence-transformers
+nbdev
+pypdf
